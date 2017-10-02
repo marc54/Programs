@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1466741800 source:c:\users\marc\desktop\data structers\assignment 3\wigets_inventory_v3\main.cpp
+	<iostream>
+	<fstream>
+

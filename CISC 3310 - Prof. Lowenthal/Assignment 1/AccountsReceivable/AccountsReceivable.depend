@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464907630 source:c:\users\marc\desktop\data structers\assignment 1\accountsreceivable\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

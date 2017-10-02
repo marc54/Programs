@@ -1,0 +1,180 @@
+s NewYork 23 14 1 
+
+Chicago		0		0		0
+Houston		0		0		0
+L.Angl.		0		0		0
+Miami		0		0		0
+NewYork		23		14		1
+
+s Miami 25 25 25 
+
+Chicago		0		0		0
+Houston		0		0		0
+L.Angl.		0		0		0
+Miami		25		25		25
+NewYork		23		14		1
+
+s LosAngeles 40 13 17 
+
+Chicago		0		0		0
+Houston		0		0		0
+L.Angl.		40		13		17
+Miami		25		25		25
+NewYork		23		14		1
+
+s Houston 100 30 10 
+
+Chicago		0		0		0
+Houston		100		30		10
+L.Angl.		40		13		17
+Miami		25		25		25
+NewYork		23		14		1
+
+s Chicago 42 23 19 
+
+Chicago		42		23		19
+Houston		100		30		10
+L.Angl.		40		13		17
+Miami		25		25		25
+NewYork		23		14		1
+
+s NewYork 0 0 15 
+
+Chicago		42		23		19
+Houston		100		30		10
+L.Angl.		40		13		17
+Miami		25		25		25
+NewYork		23		14		16
+
+s Miami 13 17 21 
+
+Chicago		42		23		19
+Houston		100		30		10
+L.Angl.		40		13		17
+Miami		38		42		46
+NewYork		23		14		16
+
+o LosAngeles 13 10 15 
+
+Price of Order: $223.50
+
+Chicago		42		23		19
+Houston		100		30		10
+L.Angl.		27		3		2
+Miami		38		42		46
+NewYork		23		14		16
+
+o NewYork 15 24 8 
+
+Item 2 shipped from a different location, price has changed.
+Price of Order: $282.80
+
+Chicago		42		23		19
+Houston		100		30		10
+L.Angl.		27		3		2
+Miami		38		18		46
+NewYork		8		14		8
+
+o Houston 75 45 10 
+
+Order Unfilled - Item 2 wasn't sent, Due to lack of inventory.
+Price of Order: $235.00
+
+Chicago		42		23		19
+Houston		25		30		0
+L.Angl.		27		3		2
+Miami		38		18		46
+NewYork		8		14		8
+
+o Chicago 20 15 15 
+
+Price of Order: $272.50
+
+Chicago		22		8		4
+Houston		25		30		0
+L.Angl.		27		3		2
+Miami		38		18		46
+NewYork		8		14		8
+
+o NewYork 15 0 0 
+
+Item 1 shipped from a different location, price has changed.
+Price of Order: $33.00
+
+Chicago		22		8		4
+Houston		25		30		0
+L.Angl.		27		3		2
+Miami		23		18		46
+NewYork		8		14		8
+
+s LasAngeles 10 20 10 
+
+Chicago		22		8		4
+Houston		25		30		0
+L.Angl.		27		3		2
+Miami		23		18		46
+NewYork		18		34		18
+
+s Houston 0 30 40 
+
+Chicago		22		8		4
+Houston		25		60		40
+L.Angl.		27		3		2
+Miami		23		18		46
+NewYork		18		34		18
+
+o NewYork 15 15 25 
+
+Item 3 shipped from a different location, price has changed.
+Price of Order: $368.75
+
+Chicago		22		8		4
+Houston		25		60		40
+L.Angl.		27		3		2
+Miami		23		18		21
+NewYork		3		19		18
+
+o Chicago 75 30 40 
+
+Order Unfilled - Item 1 wasn't sent, Due to lack of inventory.
+Item 2 shipped from a different location, price has changed.
+Item 3 shipped from a different location, price has changed.
+Price of Order: $605.00
+
+Chicago		22		8		4
+Houston		25		30		0
+L.Angl.		27		3		2
+Miami		23		18		21
+NewYork		3		19		18
+
+s NewYork 20 15 20 
+
+Chicago		22		8		4
+Houston		25		30		0
+L.Angl.		27		3		2
+Miami		23		18		21
+NewYork		23		34		38
+
+o Houston 10 20 10 
+
+Item 3 shipped from a different location, price has changed.
+Price of Order: $253.50
+
+Chicago		22		8		4
+Houston		15		10		0
+L.Angl.		27		3		2
+Miami		23		18		21
+NewYork		23		34		28
+
+o Houston 10 20 10 
+
+Item 2 shipped from a different location, price has changed.
+Item 3 shipped from a different location, price has changed.
+Price of Order: $267.50
+
+Chicago		22		8		4
+Houston		5		10		0
+L.Angl.		27		3		2
+Miami		23		18		21
+NewYork		23		14		18
+

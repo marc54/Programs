@@ -1,0 +1,171 @@
+
+10 almost in order.
+1 2 3 5 4 6 7 8 9 10 
+
+Bubble Sort Used  :: 1 interchange : 90 comparisons
+1 2 3 4 5 6 7 8 9 10 
+
+Quick Sort Used  :: 10 interchange : 49 comparisons
+1 2 3 4 5 6 7 8 9 10 
+
+Heap Sort Used  :: 32 interchange : 37 comparisons
+1 2 3 4 5 6 7 8 9 10 
+
+INTERCHANGES :: Heap had the most, then Quick, then Bubble.
+COMPARISONS  :: Bubble had the most, then Quick , then heap
+
+
+
+
+
+10 random in order.
+9 5 10 8 4 3 6 1 7 2 
+
+Bubble Sort Used  :: 33 interchange : 90 comparisons
+1 2 3 4 5 6 7 8 9 10 
+
+Quick Sort Used  :: 27 interchange : 31 comparisons
+1 2 3 4 5 6 7 8 9 10 
+
+Heap Sort Used  :: 26 interchange : 31 comparisons
+1 2 3 4 5 6 7 8 9 10 
+
+INTERCHANGES :: Bubble had the most, then Quick , then heap
+COMPARISONS  :: Bubble had the most,then heap and Quick as equal
+
+
+
+
+
+10 reverse in order.
+10 9 8 7 6 5 4 3 2 1 
+
+Bubble Sort Used  :: 45 interchange : 90 comparisons
+1 2 3 4 5 6 7 8 9 10 
+
+Quick Sort Used  :: 34 interchange : 46 comparisons
+1 2 3 4 5 6 7 8 9 10 
+
+Heap Sort Used  :: 22 interchange : 27 comparisons
+1 2 3 4 5 6 7 8 9 10 
+
+INTERCHANGES :: Bubble had the most, then Quick , then heap
+COMPARISONS  :: Bubble had the most, then Quick , then heap
+
+
+
+
+
+50 almost in order.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 25 24 26 27 28 29 30 32 31 33 34 36 35 37 38 39 40 41 42 43 44 45 46 47 47 48 50 
+
+Bubble Sort Used  :: 3 interchange : 2450 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 47 48 50 
+
+Quick Sort Used  :: 50 interchange : 1212 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 47 48 50 
+
+Heap Sort Used  :: 269 interchange : 294 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 47 48 50 
+
+INTERCHANGES :: Heap had the most, then Quick, then Bubble.
+COMPARISONS  :: Bubble had the most, then Quick , then heap
+
+
+
+
+
+50 random in order.
+11 35 37 38 39 18 19 20 1 4 2 3 45 46 47 5 6 7 8 9 10 21 25 13 14 15 16 17 24 27 28 32 31 33 42 22 23 12 36 26 43 44 34 40 41 47 48 50 29 30 
+
+Bubble Sort Used  :: 379 interchange : 2450 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 47 48 50 
+
+Quick Sort Used  :: 204 interchange : 281 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 47 48 50 
+
+Heap Sort Used  :: 248 interchange : 273 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 47 48 50 
+
+INTERCHANGES :: Bubble had the most,then heap, then Quick
+COMPARISONS  :: Bubble had the most, then Quick , then heap
+
+
+
+
+
+50 reverse in order.
+50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+Bubble Sort Used  :: 1225 interchange : 2450 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+Quick Sort Used  :: 674 interchange : 1226 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+Heap Sort Used  :: 208 interchange : 233 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+INTERCHANGES :: Bubble had the most, then Quick , then heap
+COMPARISONS  :: Bubble had the most, then Quick , then heap
+
+
+
+
+
+100 almost in order.
+1 2 3 4 5 6 7 8 9 10 21 22 23 24 25 26 27 28 29 30 51 52 53 54 55 56 57 58 59 60 31 32 33 34 35 36 37 38 39 40 11 12 13 14 15 16 17 18 19 20 41 42 43 44 45 46 47 48 49 50 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Bubble Sort Used  :: 500 interchange : 9900 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Quick Sort Used  :: 479 interchange : 1604 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100
+
+Heap Sort Used  :: 606 interchange : 656 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100  
+
+INTERCHANGES :: Heap had the most, then Bubble , then Quick.
+COMPARISONS  :: Bubble had the most, then Quick , then heap
+
+
+
+
+
+100 random in order.
+2 99 100 85 89 13 14 15 16 1 11 12 17 18 19 20 86 87 88 98 21 25 26 27 28 29 30 9 10 64 65 66 31 76 77 38 39 40 35 36 78 79 3 4 8 41 42 43 44 45 22 47 48 49 50 93 94 51 52 56 57 58 59 60 95 96 74 75 34 61 62 63 67 68 69 70 23 24 46 71 72 73 80 32 33 37 5 6 7 97 81 82 83 84 90 53 54 55 91 92 
+
+Bubble Sort Used  :: 1778 interchange : 9900 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Quick Sort Used  :: 519 interchange : 858 comparisons
+1 2 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100
+
+Heap Sort Used  :: 569 interchange : 619 comparisons
+1 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 100 
+
+INTERCHANGES :: Bubble had the most,then heap, then Quick
+COMPARISONS  :: Bubble had the most, then Quick , then heap
+
+
+
+
+
+100 reverse in order.
+100 99 98 97 96 95 94 93 92 91 90 89 88 87 86 85 84 83 82 81 80 79 78 77 76 75 74 73 72 71 70 69 68 67 66 65 64 63 62 61 60 59 58 57 56 55 54 53 52 51 50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+Bubble Sort Used  :: 4950 interchange : 9900 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Quick Sort Used  :: 2700 interchange : 5050 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Heap Sort Used  :: 517 interchange : 567 comparisons
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+INTERCHANGES :: Bubble had the most, then Quick , then heap
+COMPARISONS  :: Bubble had the most, then Quick , then heap
+
+
+
+

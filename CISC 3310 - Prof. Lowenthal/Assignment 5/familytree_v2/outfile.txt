@@ -1,0 +1,23 @@
+Jones
+Bob
+Richard
+Jake
+Bill
+Dan
+Brian
+Michael
+Deville
+
+
+Jake's father is Bob
+Jake's grandpa is Jones
+
+Jake's sons are:
+Bill
+Jake's oldest son is Bill
+Jake's youngest son is Bill
+Richard is a brother of Jake
+Richard is the oldest brother of Jake
+Jake is youngest
+Dan is Jake's uncle
+Brian is Jake's uncle

@@ -1,0 +1,118 @@
+Order of 150 Widgets at $1.00 per piece has been received
+
+
+
+Order of 130 Widgets at $2.00 per piece has been received
+
+
+
+145 widgets sold
+145 at 1.30 each	 Sales: $188.50
+		   Total Sales: $188.50
+
+
+Order of 50 Widgets at $2.50 per piece has been received
+
+
+
+75 widgets ordered
+5 at 1.30 each	 Sales: $6.50
+70 at 2.60 each	 Sales: $182.00
+		   Total Sales: $188.50
+
+
+180 widgets ordered
+60 at 2.60 each	 Sales: $156.00
+50 at 3.25 each	 Sales: $162.50
+
+Remainder of 70 Widgets, not available
+
+		   Total Sales: $318.50
+
+
+Order of 50 Widgets at $4.00 per piece has been received
+
+
+
+Order of 30 Widgets at $5.00 per piece has been received
+
+
+
+Order of 40 Widgets at $5.50 per piece has been received
+
+
+
+Promotional discount of 30.00% has been applied for the next 2 orders out
+
+50 widgets sold
+50 at 5.20 each	 Sales: $260.00
+		   Total Sales: $78.00
+
+
+30 widgets sold
+30 at 6.50 each	 Sales: $195.00
+		   Total Sales: $58.50
+
+
+Order of 50 Widgets at $6.00 per piece has been received
+
+
+
+Order of 265 Widgets at $10.00 per piece has been received
+
+
+
+60 widgets ordered
+40 at 7.15 each	 Sales: $286.00
+20 at 7.80 each	 Sales: $156.00
+		   Total Sales: $442.00
+
+
+Promotional discount of 50.00% has been applied for the next 2 orders out
+
+100 widgets ordered
+30 at 7.80 each	 Sales: $234.00
+70 at 13.00 each	 Sales: $910.00
+		   Total Sales: $572.00
+
+
+70 widgets sold
+70 at 13.00 each	 Sales: $910.00
+		   Total Sales: $455.00
+
+
+175 widgets ordered
+125 at 13.00 each	 Sales: $1625.00
+
+Remainder of 50 Widgets, not available
+
+		   Total Sales: $1625.00
+
+
+Order of 40 Widgets at $14.00 per piece has been received
+
+
+
+Order of 75 Widgets at $15.00 per piece has been received
+
+
+
+110 widgets ordered
+40 at 18.20 each	 Sales: $728.00
+70 at 19.50 each	 Sales: $1365.00
+		   Total Sales: $2093.00
+
+
+Order of 30 Widgets at $16.00 per piece has been received
+
+
+
+Order of 40 Widgets at $18.00 per piece has been received
+
+
+
+CURRENT STOCK
+
+5 at 15.00
+30 at 16.00
+40 at 18.00
