@@ -1,0 +1,195 @@
+The 3 SAT scores are: 100  789  500
+The 3 SAT scores are: 300  310  400
+The 3 SAT scores are: 490  234  409
+The 3 SAT scores are: 432  765  785
+The 3 SAT scores are: 765  345  300
+The 3 SAT scores are: 798  735  653
+The 3 SAT scores are: 543  234  718
+The 3 SAT scores are: 321  712  226
+The 3 SAT scores are: 800  332  761
+The 3 SAT scores are: 654  700  617
+The 3 SAT scores are: 543  345  210
+The 3 SAT scores are: 500  585  423
+The 3 SAT scores are: 745  592  800
+The 3 SAT scores are: 345  200  513
+The 3 SAT scores are: 654  800  799
+
+	Array 1 values
+100 300 490 432 765 798 
+543 321 800 654 543 500 
+745 345 654 
+
+	Array 2 values
+789 310 234 765 345 735 
+234 712 332 700 345 585 
+592 200 800 
+
+	Array 3 values
+500 400 409 785 300 653 
+718 226 761 617 210 423 
+800 513 799 
+
+#	SCORE1	SCORE2	SCORE3	SUMSCORES
+
+1:	100	789	500	1389
+2:	300	310	400	1010
+3:	490	234	409	1133
+4:	432	765	785	1982
+5:	765	345	300	1410
+6:	798	735	653	2186
+7:	543	234	718	1495
+8:	321	712	226	1259
+9:	800	332	761	1893
+10:	654	700	617	1971
+11:	543	345	210	1098
+12:	500	585	423	1508
+13:	745	592	800	2137
+14:	345	200	513	1058
+15:	654	800	799	2253
+
+	Sumscores values
+1389 1010 1133 1982 1410 2186 
+1495 1259 1893 1971 1098 1508 
+2137 1058 2253 
+
+	Array 1 values sorted 
+100 300 321 345 432 490 
+500 543 543 654 654 745 
+765 798 800 
+
+The largest value is: 800
+The 2nd largest value is: 798
+The Smallest value is: 100
+The 2nd Smallest value is: 300
+
+
+	Array 2 values sorted
+200 234 234 310 332 345 
+345 585 592 700 712 735 
+765 789 800 
+
+The largest value is: 800
+The 2nd largest value is: 789
+The Smallest value is: 200
+The 2nd Smallest value is: 234
+
+
+	Array 3 values sorted
+210 226 300 400 409 423 
+500 513 617 653 718 761 
+785 799 800 
+
+The largest value is: 800
+The 2nd largest value is: 799
+The Smallest value is: 210
+The 2nd Smallest value is: 226
+
+
+	sumscores values sorted
+1010 1058 1098 1133 1259 1389 
+1410 1495 1508 1893 1971 1982 
+2137 2186 2253 
+
+The largest value is: 2253
+The 2nd largest value is: 2186
+The Smallest value is: 1010
+The 2nd Smallest value is: 1058
+
+
+#	SCORE1	SCORE2	SCORE3	SUMSCORES
+
+1:	100	200	210	510
+2:	300	234	226	760
+3:	321	234	300	855
+4:	345	310	400	1055
+5:	432	332	409	1173
+6:	490	345	423	1258
+7:	500	345	500	1345
+8:	543	585	513	1641
+9:	543	592	617	1752
+10:	654	700	653	2007
+11:	654	712	718	2084
+12:	745	735	761	2241
+13:	765	765	785	2315
+14:	798	789	799	2386
+15:	800	800	800	2400
+
+
+How many sets of grades do you want to enter. >> 15
+----------------------------------------------
+
+To turn off search option type in any number besides 1, 2, 3, or 4.
+
+Please enter an array number ( 1,2,3 or 4) ::>> 1
+Please enter value you want to find ::>> 234
+0 and 1 are the closest positions to 234
+
+Please enter an array number ( 1,2,3 or 4) ::>> 2
+Please enter value you want to find ::>> 654
+8 and 9 are the closest positions to 654
+
+Please enter an array number ( 1,2,3 or 4) ::>> 4
+Please enter value you want to find ::>> 2400
+The position with the closest value to 2400 is 14
+
+Please enter an array number ( 1,2,3 or 4) ::>> 1
+Please enter value you want to find ::>> 100
+The position with the closest value to 100 is 0
+
+Please enter an array number ( 1,2,3 or 4) ::>> 3
+Please enter value you want to find ::>> 657
+9 and 10 are the closest positions to 657
+
+Please enter an array number ( 1,2,3 or 4) ::>> 2
+Please enter value you want to find ::>> 876
+The position with the closest value to 876 is 14
+
+Please enter an array number ( 1,2,3 or 4) ::>> 2
+Please enter value you want to find ::>> 700
+The position with the closest value to 700 is 9
+
+Please enter an array number ( 1,2,3 or 4) ::>> 1
+Please enter value you want to find ::>> 654
+The position with the closest value to 654 is 9
+
+Please enter an array number ( 1,2,3 or 4) ::>> 4
+Please enter value you want to find ::>> 1567
+6 and 7 are the closest positions to 1567
+
+Please enter an array number ( 1,2,3 or 4) ::>> 3
+Please enter value you want to find ::>> 654
+9 and 10 are the closest positions to 654
+
+Please enter an array number ( 1,2,3 or 4) ::>> 1
+Please enter value you want to find ::>> 345
+The position with the closest value to 345 is 3
+
+Please enter an array number ( 1,2,3 or 4) ::>> 2
+Please enter value you want to find ::>> 765
+The position with the closest value to 765 is 12
+
+Please enter an array number ( 1,2,3 or 4) ::>> 4
+Please enter value you want to find ::>> 163
+The position with the closest value to 163 is 0
+
+Please enter an array number ( 1,2,3 or 4) ::>> 3
+Please enter value you want to find ::>> 799
+The position with the closest value to 799 is 13
+
+Please enter an array number ( 1,2,3 or 4) ::>> 4
+Please enter value you want to find ::>> 1845
+8 and 9 are the closest positions to 1845
+
+Please enter an array number ( 1,2,3 or 4) ::>> 1
+Please enter value you want to find ::>> 56
+The position with the closest value to 56 is 0
+
+Please enter an array number ( 1,2,3 or 4) ::>> 5
+
+
+Program Is Complete!!!
+
+
+Process returned 0 (0x0)   execution time : 869.908 s
+Press any key to continue.
+

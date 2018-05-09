@@ -1,0 +1,104 @@
+The Original Sentence is >> I am Marc>)*&^%$
+I           	am		Marc
+
+I         	1	mpImp
+am        	2	mpammp
+Marc      	4	MarMarcc
+
+
+
+The Original Sentence is >> Cars are fast.
+Cars        	are		fast
+
+Cars      	4	CarMarcs
+are       	3	areMarc
+fast      	4	fasMarct
+
+
+
+The Original Sentence is >> Snails @#$%^&*are slow.
+Snails      	are		slow
+
+Snails    	6	SPfeiffers
+are       	3	areMarc
+slow      	4	sloMarcw
+
+
+
+The Original Sentence is >> Pizza tastes good.
+Pizza       	tastes		good
+
+Pizza     	5	PizMarcza
+tastes    	6	tPfeiffers
+good      	4	gooMarcd
+
+
+
+The Original Sentence is >> Welcome         to America.
+Welcome     	to		America
+
+Welcome   	7	WPfeifferme
+to        	2	mptomp
+America   	7	APfeifferca
+
+
+
+The Original Sentence is >> Great, another assignment.
+Great       	another		assignment
+
+Great     	5	GreMarcat
+another   	7	aPfeifferer
+assignment	10	aPfeiffernment
+
+
+
+The Original Sentence is >>   Optionals*(*&  ^)are(*&^%$)back(*&^%).
+Optionals   	are		back
+
+Optionals 	9	OPfeiffernals
+are       	3	areMarc
+back      	4	bacMarck
+
+
+
+The Original Sentence is >> Yay Im done.
+Yay         	Im		done
+
+Yay       	3	YayMarc
+Im        	2	mpImmp
+done      	4	donMarce
+
+
+
+
+
+
+
+
+The Original Sentence is >> That was hard.
+That        	was		hard
+
+That      	4	ThaMarct
+was       	3	wasMarc
+hard      	4	harMarcd
+
+
+
+I am Marc mpImp mpammp MarMarcc
+
+Cars are fast CarMarcs areMarc fasMarct
+
+Snails are slow SPfeiffers areMarc sloMarcw
+
+Pizza tastes good PizMarcza tPfeiffers gooMarcd
+
+Welcome to America WPfeifferme mptomp APfeifferca
+
+Great another assignment GreMarcat aPfeifferer aPfeiffernment
+
+Optionals are back OPfeiffernals areMarc bacMarck
+
+Yay Im done YayMarc mpImmp donMarce
+
+That was hard ThaMarct wasMarc harMarcd
+

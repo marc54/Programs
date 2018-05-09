@@ -1,0 +1,23 @@
+This program will read in 3 numbers at a time
+and will determine  which of them is the smallest.
+It will then print a message the amount of
+times that the smallest number is.
+(only if between 1 and 10). The program also
+prints out how many times the program ran.
+
+Look in homework_3.txt to see results.
+
+Enter  three numbers that add up to zero to exit program:
+
+
+Data ran 0 times
+
+Optional 1
+
+The Message was printed 0 times.
+
+Optional 2
+
+The largest, smallest interger was: -100000000
+The smallest, smallest interger was: 100000000
+
